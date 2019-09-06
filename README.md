@@ -1,5 +1,3 @@
-Informes de Laboratorio 3
-
 Reglas para evitar problemas de merge:
 
 No debe haber dos personas en simultaneo modificando el mismo archivo. Preguntar siempre si alguien está modificando el archivo en cuestión antes de pullear/pushear. Si dos personas estan modificando archivos distintos, seguir la recomendación de (4).
